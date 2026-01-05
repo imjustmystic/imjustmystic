@@ -1,6 +1,6 @@
 
 
-# Manogna Raju Chamarthi
+# imjustmystic
 
 Indie Game Developer and Content Creator on YouTube and Twitch
 
@@ -10,7 +10,6 @@ I am Manogna Raju Chamarthi, from India. I am a Video Game Developer and content
 * 🎮 Unity Engine
 * 👩‍💻 C#
 * 🖌  Blender
-* 🎨 Krita & Inkscape 
 * 🐍 Python 
 * © C and C++
 
